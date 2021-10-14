@@ -1,0 +1,14 @@
+C:\Users\nijat\source\repos\ConsoleApp_P223\ConsoleApp_P223\bin\Debug\netcoreapp3.1\ConsoleApp_P223.exe
+C:\Users\nijat\source\repos\ConsoleApp_P223\ConsoleApp_P223\bin\Debug\netcoreapp3.1\ConsoleApp_P223.deps.json
+C:\Users\nijat\source\repos\ConsoleApp_P223\ConsoleApp_P223\bin\Debug\netcoreapp3.1\ConsoleApp_P223.runtimeconfig.json
+C:\Users\nijat\source\repos\ConsoleApp_P223\ConsoleApp_P223\bin\Debug\netcoreapp3.1\ConsoleApp_P223.runtimeconfig.dev.json
+C:\Users\nijat\source\repos\ConsoleApp_P223\ConsoleApp_P223\bin\Debug\netcoreapp3.1\ConsoleApp_P223.dll
+C:\Users\nijat\source\repos\ConsoleApp_P223\ConsoleApp_P223\bin\Debug\netcoreapp3.1\ConsoleApp_P223.pdb
+C:\Users\nijat\source\repos\ConsoleApp_P223\ConsoleApp_P223\obj\Debug\netcoreapp3.1\ConsoleApp_P223.csproj.AssemblyReference.cache
+C:\Users\nijat\source\repos\ConsoleApp_P223\ConsoleApp_P223\obj\Debug\netcoreapp3.1\ConsoleApp_P223.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nijat\source\repos\ConsoleApp_P223\ConsoleApp_P223\obj\Debug\netcoreapp3.1\ConsoleApp_P223.AssemblyInfoInputs.cache
+C:\Users\nijat\source\repos\ConsoleApp_P223\ConsoleApp_P223\obj\Debug\netcoreapp3.1\ConsoleApp_P223.AssemblyInfo.cs
+C:\Users\nijat\source\repos\ConsoleApp_P223\ConsoleApp_P223\obj\Debug\netcoreapp3.1\ConsoleApp_P223.csproj.CoreCompileInputs.cache
+C:\Users\nijat\source\repos\ConsoleApp_P223\ConsoleApp_P223\obj\Debug\netcoreapp3.1\ConsoleApp_P223.dll
+C:\Users\nijat\source\repos\ConsoleApp_P223\ConsoleApp_P223\obj\Debug\netcoreapp3.1\ConsoleApp_P223.pdb
+C:\Users\nijat\source\repos\ConsoleApp_P223\ConsoleApp_P223\obj\Debug\netcoreapp3.1\ConsoleApp_P223.genruntimeconfig.cache
